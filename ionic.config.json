@@ -1,0 +1,7 @@
+{
+  "name": "CondoManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
